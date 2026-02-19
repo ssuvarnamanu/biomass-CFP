@@ -41,6 +41,6 @@ The codes can also be run on an exisiting environment provided the above listed 
 
 ## Data preparation
 
-We provide the clean and labelled curated data as Excel sheets titled for both the notebooks. 
+We provide the clean and labelled curated data as Excel sheets for both the notebooks. 
 For the notebook titled "RF_Uncertainty_Parity.ipynb" use the excel sheet titled "curated_data_no_outlier" 
 For the notebook titled "RF_NSGA_Catalysis_Optimization" use the excel sheet titled "promoter_only" 
